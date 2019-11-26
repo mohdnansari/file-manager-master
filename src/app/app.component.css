@@ -1,0 +1,8 @@
+:host ::ng-deep .ui-tree {
+  border: 0px !important;
+  padding: 0px 0px 0px 1em !important;
+}
+.sidebar {
+  min-height: 91vh;
+  border-right: 1px solid lightgray;
+}
